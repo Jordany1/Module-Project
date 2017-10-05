@@ -21,3 +21,4 @@ function Music() {
         output.innerHTML = output.innerHTML+"<font class='"+color+"'>"+str+"</font><br>"
     }
 }
+s
